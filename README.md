@@ -7,7 +7,7 @@
 
 
 ##  Objetivo
-Analizar la evolución de la inflación mensual y anual en Argentina desde enero de 2007 hasta julio de 2025, identificando los niveles anuales registrados, los promedios mensuales estacionales (2020-2024) y la variación mensual reciente (2022-2025), con especial foco en picos, mínimos y patrones estacionales.
+Analizar la evolución de la inflación mensual y anual en Argentina desde enero de 2007 hasta diciembre de 2025, identificando los niveles anuales registrados, los promedios mensuales estacionales (2020-2024) y la variación mensual reciente (2022-2025), con especial foco en picos, mínimos y patrones estacionales.
 
 
 
