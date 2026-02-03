@@ -13,7 +13,7 @@ Analizar la evolución de la inflación mensual y anual en Argentina desde enero
 
 ##  Fuentes de datos
 - Datos oficiales del Banco Central de la República Argentina (BCRA): https://www.bcra.gob.ar/
-- Series: Inflación mensual y anual (IPC) desde enero 2007 hasta julio 2025
+- Series: Inflación mensual y anual (IPC) desde enero 2007 hasta diciembre 2025
 
 
 
